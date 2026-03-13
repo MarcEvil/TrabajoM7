@@ -1,0 +1,16 @@
+<h1>{{titulo}}</h1>
+
+<div class="usuarios-container">
+    {{#each usuarios}}
+    <div class="usuario-card">
+        <p><strong>ID:</strong> {{this.id}}</p>
+        <p><strong>Nombre:</strong> {{this.nombre}}</p>
+        <p><strong>Email:</strong> {{this.email}}</p>
+    </div>
+    <hr>
+    {{else}}
+    <p>No hay usuarios registrados actualmente.</p>
+    {{/each}}
+</div>
+
+<a href="/">Volver al Inicio</a>
