@@ -78,3 +78,4 @@ Se diseñó un middleware personalizado que intercepta cada solicitud y registra
 > **Nota**: Iconos o caracteres especiales obtenidos utilizando las teclas "windows + ."
 >**Nota**: Enlace a carpeta subida a Google Drive https://drive.google.com/drive/folders/11D4T-PUvtwxIYrQYA4jD6Emj-B1dGce2?usp=sharing
 >**nota**: Al intentar instalar nodemon y ejecutar run dev causaba conflicto de compativilidad, asique decidí ejecutarlo con "npm start"# TrabajoM7
+# TrabajoM7
