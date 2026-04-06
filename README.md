@@ -81,7 +81,7 @@ Se diseñó un middleware personalizado que intercepta cada solicitud y registra
 
 
 ______________________________________________________________________________________________________________________________________________
-# Segunda parte del trabajo 
+# Segunda parte del trabajo Modulo 7
 
 🚀 Tech Solutions: Sistema de Gestión de Usuarios (M7)
 Desarrollador: Marcelo Mardones Guzmán
